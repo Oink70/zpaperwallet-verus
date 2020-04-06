@@ -1,5 +1,5 @@
 [package]
-name = "zecpaperwallet"
+name = "zpaperwallet-verus"
 version = "0.1.0"
 authors = ["ZecWallet"]
 edition = "2018"
